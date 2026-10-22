@@ -9,7 +9,7 @@ in all of the major e-book formats. It can also talk to e-book reader devices.
 It can go out to the internet and fetch metadata for your books. 
 It can download newspapers and convert them into e-books for convenient reading.
 It is cross platform, running on Linux (and Appflat), Windows (and porable), macOS, Android and web.
-Future: will be a Multimedia manager, compiling metadata from music and videos
+Future: will be a Multimedia manager, compiling metadata from music, videos, CAD, 3D OBJ, BIM, SVG, images (EXIF), files.
 
 For more information, see the [calibre About page](https://calibre-ebook.com/about).
 
