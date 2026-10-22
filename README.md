@@ -2,11 +2,14 @@
 
 <img align="left" src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png" height="200" width="200"/>
 
-calibre is an e-book manager. It can view, convert, edit and catalog e-books 
-in all of the major e-book formats. It can also talk to e-book reader 
-devices. It can go out to the internet and fetch metadata for your books. 
-It can download newspapers and convert them into e-books for convenient 
-reading. It is cross platform, running on Linux, Windows and macOS.
+This fork of calibre (e-book manager) but it will not copy the e-book from the original folder to a new one, 
+the CalibrePlus will add settings files in original file folder, including gDrive, OneDrive, Terabox, and others cloud storages 
+avoiding duplicated files and reducing the space in use. It can view, convert, edit and catalog e-books 
+in all of the major e-book formats. It can also talk to e-book reader devices. 
+It can go out to the internet and fetch metadata for your books. 
+It can download newspapers and convert them into e-books for convenient reading.
+It is cross platform, running on Linux (and Appflat), Windows (and porable), macOS, Android and web.
+Future: will be a Multimedia manager, compiling metadata from music and videos
 
 For more information, see the [calibre About page](https://calibre-ebook.com/about).
 
